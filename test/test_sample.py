@@ -8,3 +8,5 @@ def test_add(a,b):
 def test_sub(a,b):
     assert sub(5,2) == 3
     assert add(14,6) == 8    
+
+#just to trigger the github actions
